@@ -4,5 +4,5 @@ services:
     image: chinnawatt58/resume1
     ports:
       - "8011:8000"
-    command: "npm start"
+    command: "node index.js"
 
